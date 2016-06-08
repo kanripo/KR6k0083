@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:58.842141
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:26
 #+TITLE: 梵網經古迹記
 #+PROPERTY: CBETA_ID T40n1815
 #+PROPERTY: ID KR6k0083
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 40, No. 1815
 #+PROPERTY: VOL 40
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0083_T_000-0689b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0083_T_001-0689b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1815[cf.No.1484]¶
-
- 上梵網經古迹記卷上¶
+No. 1815 [cf. No. 1484]¶
+梵網經古迹記卷上¶
 ¶
 青丘沙門太賢集¶
 
