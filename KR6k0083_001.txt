@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:43:58.842141
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:26
 #+TITLE: 梵網經古迹記
 #+PROPERTY: CBETA_ID T40n1815
 #+PROPERTY: ID KR6k0083
